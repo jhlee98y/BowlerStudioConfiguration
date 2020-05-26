@@ -1,6 +1,7 @@
 {
   "workspace": {},
   "studio-open-web": {},
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
     "firstVersion": "1.9.1",
